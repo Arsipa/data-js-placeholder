@@ -1,0 +1,19 @@
+{
+  "name": "data-js-placeholder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsipa/data-js-placeholder.git"
+  },
+  "author": "arsipa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arsipa/data-js-placeholder/issues"
+  },
+  "homepage": "https://github.com/Arsipa/data-js-placeholder#readme"
+}
