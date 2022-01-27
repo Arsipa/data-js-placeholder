@@ -1,8 +1,9 @@
 class Placeholder {
-    constructor() {
-        
+    constructor() {}
+    log() {
+        console.log("log232");
     }
-    method1() {
+}
 
-    }
-  }
+const ps = new Placeholder();
+ps.log()
